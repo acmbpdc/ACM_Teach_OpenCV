@@ -1,4 +1,7 @@
 # ACM_Teach_OpenCV
+
+[The Colab simplified - non webcam PC version](https://colab.research.google.com/drive/1jS2feCzi3ZVOa_XoKYoNA3rNXM7a74Bm?usp=sharing)
+
 OpenCV tutorial repo for ACM Teach 2023
 
 OpenCV was designed for computational efficiency and with a strong focus on real-time applications. So, it’s perfect for real-time face recognition using a camera.
